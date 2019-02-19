@@ -1,0 +1,5 @@
+rootProject.name = 'axisData-front'
+
+include 'server'
+include 'client'
+
